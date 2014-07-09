@@ -53,6 +53,8 @@ end
 gem 'carrierwave'
 gem 'mini_magick'
 
+gem 'carrierwave-qiniu'
+
 group :development do
     gem 'powder'
 end
