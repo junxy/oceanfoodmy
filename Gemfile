@@ -51,6 +51,7 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'carrierwave'
+gem 'mini_magick'
 
 group :development do
     gem 'powder'
