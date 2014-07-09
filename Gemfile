@@ -50,6 +50,8 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'carrierwave'
+
 group :development do
     gem 'powder'
 end
